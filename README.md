@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sam
+# 👋 Hi, I'm Lin Oo Khant
 
-💻 Full Stack Developer from Myanmar 🇲🇲  
+💻 Full Stack Developer from Myanmar base in Thailand (BKK)
 I build modern, scalable web applications with clean UI and solid backend architecture.
 
 ---
