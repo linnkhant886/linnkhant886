@@ -58,23 +58,9 @@ GitHub • Vercel • Stripe
 
 ---
 
-# 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=linnkhant886&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnkhant886&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 # 📫 Connect With Me
-
-- 💼 LinkedIn — your-linkedin  
-- 🌐 Portfolio — yoursite.com  
-- 📧 Email — your@email.com
+- 📧 Email — linookhant886@gmail.com
 
 ---
 
