@@ -1,60 +1,81 @@
 # 👋 Hi, I'm Lin Oo Khant
 
-💻 Full Stack Developer from Myanmar base in Thailand (BKK)
+💻 Full Stack Developer from Myanmar 🇲🇲  
+📍 Based in Bangkok, Thailand  
+
 I build modern, scalable web applications with clean UI and solid backend architecture.
 
 ---
 
 ## 🚀 About Me
 
-- 🌐 Full-stack web developer
+- 🌐 Full-Stack Web Developer
 - ⚡ Focused on modern JavaScript ecosystem
-- 🎨 Love building clean and responsive UI
+- 🎨 Love building clean UI / UX
 - 🔧 Enjoy designing scalable backend systems
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
 ### 🎨 Frontend
-- JavaScript
-- React
-- Next.js
-- Tailwind CSS
-- shadcn/ui
-- Zustand
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,next,tailwind" />
+</p>
+
+React • Next.js • Tailwind • shadcn/ui • Zustand
+
+---
 
 ### ⚙️ Backend
-- Node.js
-- Express.js
-- Next.js API Routes
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+Node.js • Express • Next.js API Routes
+
+---
 
 ### 🗄 Database
-- MongoDB
-- PostgreSQL
-- MySQL
 
-### 🛠 Tools & Services
-- GitHub
-- Vercel
-- Stripe
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
+
+MongoDB • PostgreSQL • MySQL
 
 ---
 
-## 🔭 Current Focus
+### 🛠 Tools
 
-- Building full-stack apps with **Next.js**
-- Improving **system design knowledge**
-- Learning **advanced TypeScript patterns**
+<p>
+<img src="https://skillicons.dev/icons?i=github,vercel" />
+</p>
+
+GitHub • Vercel • Stripe
 
 ---
 
-## 📈 Development Philosophy
+# 📊 GitHub Stats
 
-- Clean and maintainable code
-- Performance-first mindset
-- Great user experience
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=linnkhant886&show_icons=true&theme=tokyonight" />
+</p>
 
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnkhant886&layout=compact&theme=tokyonight" />
+</p>
 
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn — your-linkedin  
+- 🌐 Portfolio — yoursite.com  
+- 📧 Email — your@email.com
+
+---
 
 ⭐ Check out my repositories to see what I'm building.
