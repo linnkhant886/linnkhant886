@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Sam
 
-<!--
-**linnkhant886/linnkhant886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer from Myanmar 🇲🇲  
+I build modern, scalable web applications with clean UI and solid backend architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌐 Full-stack web developer
+- ⚡ Focused on modern JavaScript ecosystem
+- 🎨 Love building clean and responsive UI
+- 🔧 Enjoy designing scalable backend systems
+
+---
+
+## 🧠 Tech Stack
+
+### 🎨 Frontend
+- JavaScript
+- React
+- Next.js
+- Tailwind CSS
+- shadcn/ui
+- Zustand
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- Next.js API Routes
+
+### 🗄 Database
+- MongoDB
+- PostgreSQL
+- MySQL
+
+### 🛠 Tools & Services
+- GitHub
+- Vercel
+- Stripe
+
+---
+
+## 🔭 Current Focus
+
+- Building full-stack apps with **Next.js**
+- Improving **system design knowledge**
+- Learning **advanced TypeScript patterns**
+
+---
+
+## 📈 Development Philosophy
+
+- Clean and maintainable code
+- Performance-first mindset
+- Great user experience
+
+
+
+⭐ Check out my repositories to see what I'm building.
